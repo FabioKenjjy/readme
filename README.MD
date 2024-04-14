@@ -36,10 +36,10 @@
 
 </div>
 
-## MVP <a name="mvp"><a>
+## 📌 MVP <a name="mvp"><a>
 <img src="https://github.com/CyberScrums/Projeto-Smart-Farming/blob/main/docs/sprint/sprint_1.gif">
 
-## Product Backlog <a name="backlog"><a>
+## 📜 Product Backlog <a name="backlog"><a>
 
 | RANK | SPRINT | PRIORIDADE | ITEM | USER STORY (NOME) | STATUS |
 | :---: | :----: | :---: | :---: | :----------------------------: | :----: |
@@ -59,7 +59,7 @@
 | 15    | 3      | 5     | 2.4   | Média do Volume da Água        |        |
 | 16    | 4      | 3     | 1     | Alerta                         |        |
 
-## Equipe <a name="equipe"><a>
+## 👥 Equipe <a name="equipe"><a>
 |  Foto        |     Função    |           Nome            |                            LinkedIn                            |                      GitHub                       |
 | :----: | :-----------: | :-----------------------: | :------------------------------------------------------------: | :-----------------------------------------------: |
 | <img src="https://avatars.githubusercontent.com/u/160733714?v=4" width="75px"> | Scrum Master  | Eduardo da Silva Fontes | [Linkedin](https://www.linkedin.com/in/eduardo-da-silva-fontes/)  | [GitHub](https://github.com/DuuhZero)           |
